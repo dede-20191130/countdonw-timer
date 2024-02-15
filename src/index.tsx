@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import CountdownTimer from "./countdown-timer";
+import CountdownTimer from "./countdown-timer/countdown-timer";
 
 const container = document.getElementById("root");
 const root = createRoot(container);
